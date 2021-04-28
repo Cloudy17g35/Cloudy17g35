@@ -1,9 +1,9 @@
 Hi!
 
-I'm cloudy17
-And I'm into: 
-Big Data,
-Data Science,
+I'm Ksawery
+And I'm into:\n
+Big Data,\n
+Data Science,\n
 Machine Learning
 
 Love to play the guitar!
