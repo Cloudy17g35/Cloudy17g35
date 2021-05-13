@@ -1,9 +1,9 @@
 Hi!
 
 I'm Ksawery
-And I'm into:\n
-Big Data,\n
-Data Science,\n
+And I'm into:
+Big Data,
+Data Science,
 Machine Learning
 
 Love to play the guitar!
