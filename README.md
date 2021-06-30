@@ -1,4 +1,4 @@
-Into Machine Learning and DataScience
+Into Data Analysis, Data Science and Machine Learning
 
 <!---
 Cloudy17g35/Cloudy17g35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
