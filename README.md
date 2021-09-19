@@ -1,4 +1,16 @@
-Into Data Analysis, Data Science and Machine Learning
+Into:
+
+Data Analysis , 
+Data Science,
+Machine Learning
+
+Skills:
+- Python 🐍
+- Linux 🐧
+- SQL 🛢
+- Pandas 🐼
+- Problem solving 🪛
+
 
 <!---
 Cloudy17g35/Cloudy17g35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
