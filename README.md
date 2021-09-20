@@ -5,8 +5,8 @@ Data Science,
 Machine Learning
 
 Skills:
-- Python 🐍
 - Linux 🐧
+- - Python 🐍
 - SQL 🛢
 - Pandas 🐼
 - Problem solving 🪛
