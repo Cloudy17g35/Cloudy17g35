@@ -6,7 +6,7 @@ Machine Learning
 
 Skills:
 - Linux 🐧
-- - Python 🐍
+- Python 🐍
 - SQL 🛢
 - Pandas 🐼
 - Problem solving 🪛
