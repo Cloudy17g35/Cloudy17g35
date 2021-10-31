@@ -18,7 +18,7 @@ https://www.kaggle.com/cloudy17
 
 codewars profile:
 
-codewars.com/users/Cloduy17g35/completed_solutions
+https://www.codewars.com/users/Cloduy17g35/completed_solutions
 
 e-mail adress: ksawery.lejczak@gmail.com
 
