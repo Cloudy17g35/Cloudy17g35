@@ -5,12 +5,14 @@ Data Science,
 Machine Learning
 
 Skills:
-- Linux 🐧
 - Python 🐍
 - SQL 🛢
 - Pandas 🐼
 - Problem solving 🪛
+- Linux 🐧
+- Excel 📊
 
+Constantly looking for job as data analyst.
 
 My kaggle profile:
 
