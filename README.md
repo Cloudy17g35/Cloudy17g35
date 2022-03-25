@@ -1,18 +1,24 @@
-Into:
+Current role: Python Dev in Kynetec
 
-Data Analysis , 
-Data Science,
-Machine Learning
+Tools which i use almost everyday:
 
-Skills:
-- Python 🐍
-- SQL 🛢
-- Pandas 🐼
-- Problem solving 🪛
-- Linux 🐧
-- Excel 📊
+- Python:
+  - pandas
+  - plotly
+  - sklearn
 
-Constantly looking for job as data analyst.
+- Linux command bash
+- tableauserverclient (Tableau API)
+- SQL
+
+
+Tools which I know or currently learning:
+- AWS
+- GCP
+- Spark
+- Deep Learning with Python (keras, tensorflow)
+
+I like to solve problems.
 
 My kaggle profile:
 
